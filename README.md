@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Egill](https://upload.wikimedia.org/wikipedia/commons/f/fc/Egil_Skallagrimsson_17c_manuscript.jpg)
+
 You can use the [editor on GitHub](https://github.com/asasigny/krukka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -22,7 +24,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Egill](https://upload.wikimedia.org/wikipedia/commons/f/fc/Egil_Skallagrimsson_17c_manuscript.jpg)
+
 
 [Link](url) and ![Image](src)
 ```
