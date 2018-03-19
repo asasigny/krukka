@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+![Egill](https://upload.wikimedia.org/wikipedia/commons/f/fc/Egil_Skallagrimsson_17c_manuscript.jpg)
 
 [Link](url) and ![Image](src)
 ```
